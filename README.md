@@ -1,5 +1,6 @@
 # Music-Trend-Insight
 Using the Kaggle mega dataset to design a model that best predicts popularity of songs using lyrics.
+Details of the dataset used can be found in: https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs
 
 The purpose of this study is to design a model that best predicts popularity of songs using lyrics. As lyrics are one of the most important aspects of music composition, we aimed to predict the popularity of songs using lyrics. Using various models including perceptron, naive bayes, logistic regression, and linear regression, we used different preprocessing techniques to optimize each model and compared the models to find the one that best predicts popularity of songs. Out of all the models, linear regression was our best model with the availability of predicting popularity of songs using different languages of lyrics and the best accuracy. Considering that we did not include other important features that could affect the popularity of songs such as tempo, key, loudness, energy, etc., additional research is needed to improve the models.
 
